@@ -7,7 +7,7 @@ module.exports = {
     proxyFile: "proxies.txt"
   },
   discord: {
-    webhook: "",
+    webhook: "https://discordapp.com/api/webhooks/700229766237650944/7mrPnZ0JAxiTkhNGnU-z2OA53mERU2FOIj5CHjuuGLtcyn0Qj9xCSb9dyQTTV40fZSxc",
     webhookFooter: "Written by @suite",
     webhookColor: 7785669
   }
